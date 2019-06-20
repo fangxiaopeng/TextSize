@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TextSize</string>
+
+    <string name="text_size_setting_lable">字体大小设置</string>
+    <string name="title_text_size_dialog">字体设置</string>
+    <string name="text_size_small">小</string>
+    <string name="text_size_middle">中</string>
+    <string name="text_size_big">大</string>
+
+</resources>

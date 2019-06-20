@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 字体大小设置 -->
+    <attr name="font1" format="dimension" />
+    <attr name="font2" format="dimension" />
+    <attr name="font3" format="dimension" />
+    <attr name="font4" format="dimension" />
+    <attr name="font5" format="dimension" />
+    <attr name="font6" format="dimension" />
+    <attr name="font7" format="dimension" />
+    <attr name="font8" format="dimension" />
+    <attr name="font9" format="dimension" />
+    <attr name="font10" format="dimension" />
+    <attr name="font11" format="dimension" />
+    <attr name="font12" format="dimension" />
+    <attr name="font13" format="dimension" />
+    <attr name="font14" format="dimension" />
+    <attr name="font15" format="dimension" />
+    <attr name="font16" format="dimension" />
+    <attr name="font17" format="dimension" />
+    <attr name="font18" format="dimension" />
+    <attr name="font19" format="dimension" />
+    <attr name="font20" format="dimension" />
+    <attr name="font21" format="dimension" />
+    <attr name="font22" format="dimension" />
+    <attr name="font23" format="dimension" />
+    <attr name="font24" format="dimension" />
+    <attr name="font25" format="dimension" />
+    <attr name="font26" format="dimension" />
+    <attr name="font27" format="dimension" />
+    <attr name="font28" format="dimension" />
+    <attr name="font29" format="dimension" />
+    <attr name="font30" format="dimension" />
+    <attr name="font31" format="dimension" />
+    <attr name="font32" format="dimension" />
+    <attr name="font33" format="dimension" />
+    <attr name="font34" format="dimension" />
+    <attr name="font35" format="dimension" />
+    <attr name="font36" format="dimension" />
+    <attr name="font37" format="dimension" />
+    <attr name="font38" format="dimension" />
+    <attr name="font39" format="dimension" />
+    <attr name="font40" format="dimension" />
+    <attr name="font41" format="dimension" />
+    <attr name="font42" format="dimension" />
+    <attr name="font43" format="dimension" />
+    <attr name="font44" format="dimension" />
+    <attr name="font45" format="dimension" />
+    <attr name="font46" format="dimension" />
+    <attr name="font47" format="dimension" />
+    <attr name="font48" format="dimension" />
+    <attr name="font49" format="dimension" />
+    <attr name="font50" format="dimension" />
+
+</resources>
